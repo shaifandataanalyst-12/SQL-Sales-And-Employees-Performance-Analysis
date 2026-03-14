@@ -1,0 +1,64 @@
+
+1. **Find the full name, department, and total sales amount for each employee who made sales above ₹100,000 in 2023.**
+
+2. **List all employees who made at least one sale in the "West" region and have more than 5 years of experience in the company.**
+
+3. **For each department, show the average discount given by its employees and the total units sold.**
+
+4. **Display employee details and their total sales amount where sales were made only through 'Card' or 'UPI'.**
+
+5. **Show employees who have never made any sales, along with their department and location.**
+
+6. **Find the top 3 employees by total sales amount in each region.**
+
+7. **Display each employee’s total number of sales and categorize them as ‘High Performer’, ‘Medium Performer’, or ‘Low Performer’ based on total sale value using a CASE statement.**
+
+8. **List all female employees from ‘Marketing’ department who sold ‘Laptop’ or ‘Mobile’ and offered a discount greater than 20%.**
+
+9. **Get the count of employees who have made sales in more than 2 different customer types.**
+
+10. **Show all employee names and their highest and lowest sale amounts. Sort by highest sale descending.**
+
+11. **List the first 5 employees (by joining date) who made a sale in 2023 using 'Cash' as the payment method.**
+
+12. **Get employee names, department, and their most frequently sold product.**
+
+13. **Find all employees who made sales in both ‘North’ and ‘South’ regions.**
+
+14. **Show the average unit price for each product sold by employees from the 'Sales' and 'IT' departments.**
+
+15. **List employees who made sales on weekends and the total sale amount for those days.**
+
+16. **Find all employees who gave a discount more than 25% in any sale, and calculate how much money was lost due to the discount (as a column).**
+
+17. **Show all employees with their total number of sales and average sale value, only if the average sale is above ₹20,000.**
+
+18. **List departments where no employee has made a sale in 2023.**
+
+19. **For each employee, show total sales done month-wise (in 2023), with a column for month name and total sale.**
+
+20. **Find employees who sold products in all 4 regions (North, South, East, West).**
+
+21. **Show the names of employees who made more than 3 sales in a single month, along with the month name and number of sales.**
+
+22. **Find all employees whose total sale value is less than the average total sale value of their department.**
+
+23. **Display each product with the total revenue generated, and also show which employee sold it the most.**
+
+24. **Show employees who made at least one sale in every quarter of 2023, along with their total annual sale.**
+
+25. **Find the department-wise percentage contribution to the overall sales amount, rounded to two decimals.**
+
+26. **Get a list of employees who made sales using all four payment methods (Card, Cash, UPI, Net Banking).**
+
+27. **Display employees who joined after 2021 and whose average discount offered across all sales is less than 10%.**
+
+28. **List employees who made their highest sale on a weekend, along with the sale amount and date.**
+
+29. **For each region, show the employee who achieved the highest total sales in 2023.**
+
+30. **Identify employees who sold all available products (Laptop, Mobile, Tablet, Monitor, Keyboard) at least once.**
+
+---
+
+
